@@ -5,3 +5,6 @@
 
 ![png file]
 (https://github.com/haggerty/sphenix_figures/blob/master/1-sPhenix-Assembly-Vibrant3.png)
+
+![pdf file with no spaces]
+(https://github.com/haggerty/sphenix_figures/blob/master/foo.pdf)
